@@ -18,7 +18,7 @@ inspired by [lafeestephanie.com](http://www.lafeestephanie.com/2017/04/recette-d
 
 What?           | How Many?
 --------------- | ---------------
-banana          | 1
+banana          | 2
 flakes          | 60g
 chocolate chips | 50g
 cinnamon        | pinch
